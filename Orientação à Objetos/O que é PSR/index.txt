@@ -1,0 +1,3 @@
+PSR = Padrões que devem ser seguidos pelos devs de PHP
+
+https://www.php-fig.org/psr/
