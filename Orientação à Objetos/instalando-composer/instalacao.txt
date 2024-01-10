@@ -1,0 +1,13 @@
+
+entrar no site
+https://getcomposer.org/
+
+e entrar no
+Installation - Windows#
+
+e pegar o link de instalação
+Composer-Setup.exe
+
+entrar no terminal e digitar
+composer --version
+para testar se foi instalado corretamente
