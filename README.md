@@ -23,3 +23,12 @@ O objetivo deste repositório é fornecer material estruturado para aprender PHP
 1. Clone o repositório em sua máquina local:
    ```bash
    git clone https://github.com/GustaSoier/Learning-PHP.git
+2. Explore as diferentes pastas, como Introducao-ao-PHP ou Controle-de-Fluxo, para acessar os materiais educativos.
+
+3. Abra os arquivos em seu editor de código favorito e comece a experimentar e aprender! 🚀👨‍💻
+
+## Contribuições
+Contribuições são bem-vindas! Se você tiver novas classes, melhorias ou correções, sinta-se à vontade para fazer um fork do repositório e enviar um pull request. Sua participação é fundamental para enriquecer o conteúdo e beneficiar outros aprendizes de PHP. 🤝🌟
+
+## Licença
+Este repositório está licenciado sob a Licença MIT - consulte o arquivo LICENSE para mais detalhes.
