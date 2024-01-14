@@ -13,6 +13,8 @@ E aí, pessoal! 👋 Sejam muito bem-vindos ao meu cantinho de aprendizado em PH
 Minha ideia com este repositório é oferecer um ambiente amigável e prático para aprender PHP. Cada classe e recurso foi escolhido e criado para ser fácil de entender, mas também desafiador. Afinal, a melhor forma de aprender é praticando, não é mesmo? 📘💻
 
 ## Estrutura do Repositório
+- **/Banco de Dados, CRUD, DAO, SOLID**: Este conteúdo de PHP engloba conceitos de Banco de Dados, operações CRUD (Create, Read, Update, Delete), padrão de acesso a dados (DAO), e princípios SOLID, proporcionando uma base robusta para o desenvolvimento de aplicações escaláveis e modularizadas.📝
+
 - **/Formulário, Validações, Sessão e Arquivos**: Abordando a criação de formulários interativos, validações de entrada, manipulação de sessões.🔀
   
 - **/Funções, Parâmetros e Includes**: Fornecendo insights sobre a criação e utilização de funções, manipulação de parâmetros para personalização e a importância dos includes para modularidade e reutilização de código.🚀📦
