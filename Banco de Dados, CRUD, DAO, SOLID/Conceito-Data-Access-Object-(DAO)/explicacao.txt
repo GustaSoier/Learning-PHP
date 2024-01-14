@@ -1,0 +1,33 @@
+CLASSE USUARIO
+- id
+- nome
+- email
+
+- getId
+- setId
+
+- getNome
+- setNome
+
+- getEmail
+- setEmail
+
+
+CLASSE USUARIODAO
+- add(Usuario)
+
+
+PASSO 1 PARA ADD USUARIO NOVO:
+- Cria a classe do novo usuario.
+
+$usuario = new Usuario();
+$usuario -> setNome('Gustavo);
+$usuario -> setEmail('gsampaiosoier0@gmail.com');
+
+$usuarioDAO -> add($usuario);
+
+
+
+- crio o objeto do usuario a ser adicionado
+- mando o objeto para o intermediario
+- o intermediario faz a comunicação com o banco de dados
