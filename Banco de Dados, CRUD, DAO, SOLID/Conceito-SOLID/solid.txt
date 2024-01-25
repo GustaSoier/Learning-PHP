@@ -1,0 +1,11 @@
+<?php
+
+S - Single Responsability Principle (Princípio da responsabilidae única);
+
+O - Open-Closed Principle (Princípio Aberto e Fechado);
+
+L - Liskov substitution Principle (Princípio da substituição de Liskov);
+
+I -  Interface Segregation Principle (Princípio da Segregação da Interface);
+
+D - Dependency Inversion Principle (Princípio da Inversão da Dependência).
